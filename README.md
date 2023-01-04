@@ -1,5 +1,4 @@
 This is a image classifier to predict driver distraction while driving.<br>
-Checkout : <a href="hiteshwarsingh1.pythonanywhere.com" target="_blank"> Flask Model </a><br>
 For more information on Dataset visit <a href="https://www.kaggle.com/c/state-farm-distracted-driver-detection" target="_blank">here</a>
 
 1. `virtualenv env`
