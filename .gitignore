@@ -4,3 +4,5 @@ data/
 imgs/
 plots/
 Results/
+pickel_dump/
+*.pkl
