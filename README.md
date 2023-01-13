@@ -2,6 +2,7 @@
 ![Python](https://img.shields.io/badge/Python-3.7-brightgreen)
 ![Framework](https://img.shields.io/badge/Framework-Flask-yellow)
 ![ML](https://img.shields.io/badge/MachineLearning-green)
+
 This is a image classifier to predict driver distraction while driving.<br>
 For more information on Dataset and Download visit <a href="https://www.kaggle.com/c/state-farm-distracted-driver-detection" target="_blank">here</a>
 This contain a notebook.ipynb file in which a model is being trained and saved. Also to run the flask app, please follow the below commands.
